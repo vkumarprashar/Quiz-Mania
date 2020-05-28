@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 29, 2018, 9:58:24 PM
+    Author     : Dell
+*/
+.jumbotron {
+                background-image: url();
+                background-position: 0% 45%;
+                background-size: cover;
+                background-repeat: no-repeat;
+                letter-spacing: 4px;
+                line-height: 1.2;
+                word-spacing: 10px;
+            }	
+            .jumbotron p{
+                    font-size: 30px;
+                    font-weight: 400;	
+                    color: #32879D;
+            }
+            .jumbotron h1{
+                    font-size: 80px;
+                    font-weight: 900;
+                    color: #32879D;
+            }
+            .quiz_jumbotron{
+                text-align: center;
+            }
+            .quiz_jumbotron p{
+                    font-size: 30px;
+                    font-weight: 400;	
+                    color: #32879D;
+            }
+            
+            .quiz_jumbotron h1{
+                    font-size: 50px;
+                    font-weight: 900;
+                    color: #3B5998;
+            }
+           .box{
+                border: 1px solid darkgray;
+                width: 25%;
+                float: left;
+                margin-left: 40px;
+                background: #DBE9DC;
+            }
+            .icon{
+                text-align: center; 
+                font-size: 80px;
+            }
+            .data{
+                
+                font-family: caret;
+            }
